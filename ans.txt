@@ -1,0 +1,11 @@
+Why are you interested in taking CMSC320?
+
+As a Computer Science major on the Data Science track, I am interested in 
+taking this class because it will offer me foundational understanding of 
+key concepts, tools, and techniques that are essential for this field of 
+work. The course will give me a hands-on experience with real-world 
+datasets, enhancing my problem-solving skills and knowledge in programming 
+languages like Python and SQL. Furthermore, the course covers statistical 
+analysis, data visualization, and data management which are things I am 
+deeply interested in and prepares me for advanced courses I will need to 
+take later on as well as career opportunities.
